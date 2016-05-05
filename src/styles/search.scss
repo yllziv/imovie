@@ -158,6 +158,13 @@ body {
       position: relative;
       text-align: center;
       p {
+        line-height: 18px;
+        font-size: 12px;
+        margin-top: 10px;
+        text-align: center;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
         a {
           color: black;
           font-size: 14px;
